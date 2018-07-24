@@ -1,0 +1,4 @@
+﻿  BubbleApps.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+  BubbleApps.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  BubbleApps.vcxproj -> C:\Users\poaghaba\Desktop\WindowsTabletBubble\BubbleApps\Debug\BubbleApps.exe
